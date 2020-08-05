@@ -4,7 +4,7 @@ An MS Teams bot for getting code snippets from [Igor Chubin's](https://github.co
 
 ![cht](cht.png)
 
-`cht` is implemented as a [MS Teams outgoing webhook bot](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook) that runs as a [Cloudflare Worker](https://workers.dev) that calls [cheat.sh](https://cheat.sh).
+`cht` is an [MS Teams outgoing webhook bot](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook) powered by a [Cloudflare Worker](https://workers.dev) that calls [cheat.sh](https://cheat.sh).
 
 Built from the [MS Teams Outgoing Webhook Bot Workers Template](https://github.com/bradyjoslin/msteams-webhook-worker-template).
 
