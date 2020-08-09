@@ -1,6 +1,6 @@
 account_id = "d3765f1c5f3d3ed76be2701b78510d29"
 name = "msteams-cht"
 route = ""
-type = "webpack"
+type = "javascript"
 workers_dev = true
 zone_id = ""
